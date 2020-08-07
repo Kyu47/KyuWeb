@@ -1,3 +1,5 @@
-# KyuWeb
+# MituBot (JS)
 
-KyuWeb est crée par Kyu.
+La première version n'est pas fini, merci de regarder fréquament le GitHub.
+
+:) MituDev
